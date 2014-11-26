@@ -131,7 +131,7 @@ ul.photo_gallery_11 li img{ max-width:96%; display:block;padding:2%;}
 ul.posts{ padding:0px; margin:0px; width:100%; display:block;}
 ul.posts li.post{ width:100%; height:80px; margin:0 0 10px 0; position:relative;}
 .post_left{width:25%; height:80px; text-align:center;position:absolute; top:0px; left:0px; }
-span.day{ display:block; font-size:40px; padding:15px 0 0 0;}
+span.day{ display:block; font-size:25px; padding:15px 0 0 0;}
 span.month{ display:block; font-size:22px; padding:10px 0 0 0;}
 .post_right_reveal{width:60%; height:80px; position:absolute; top:0px; left:25%;padding:0 0 0 5%; z-index:99;}
 .post_right_unreveal{width:60%; height:80px; position:absolute; top:0px; left:25%;padding:0 0 0 5%; z-index:88; line-height:24px;font-size:14px;}
