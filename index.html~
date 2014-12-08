@@ -18,7 +18,7 @@
 <link href='../../../fonts.googleapis.com/css@family=Lato_3A300' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="js/video.js"></script>
 </head>
-<body onload="init()">
+<body>
   <div id="header">
       <div class="gohome radius20"><a href="#"><img src="images/icons/home.png" alt="" title="" /></a></div>
       <div class="gomenu radius20"><a href="mailto:408970730@qq.com" ><img src="images/icons/contact.png" alt="" title="" /></a></div>
@@ -38,10 +38,10 @@
                                         <li><a href="#" onclick="swiperParent.swipeTo(1);"><img src="images/icons/about.png" alt="" title="" /><span>婚礼信息</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(2);"><img src="images/icons/blog.png" alt="" title="" /><span>我们的故事</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(8);"><img src="images/icons/photos.png" alt="" title="" /><span>温馨相册</span></a></li>
-                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
+                                        <li><a href="#" onclick="swiperParent.swipeTo(1);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(9);"><img src="images/icons/videos.png" alt="" title="" /><span>爱的视频</span></a></li>
                                         
-                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
+                                        <li><a href="#" onclick="swiperParent.swipeTo(1);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
                                         </ul>
                                         <div class="clearfix"></div>
                                         </div>
@@ -353,22 +353,14 @@
                                         <h2 class="page_title">爱的视频</h2>
                                          
                                             <div class="videocontainer radius6">
-                                               <div style="display:none">
-    <video id="sourcevid" autoplay="true">
-      <source src="BigBuckBunny_640x360.mp4" type="video/mp4"/>
-    </video>
-    <canvas id="sourcecopy" width="1500" height="500"></canvas>
+                                               <div >
+                                              <embed src="http://www.tudou.com/v/vmx68XtzlX0/&bid=05&resourceId=0_05_05_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="420" height="350"></embed>
   </div>
-  <div>
-    <canvas id="output" width="700" height="500" onmousedown="dropBomb(event, this)" style="border: 0 none"></canvas>
-  </div>
-  <div style="width:1000px;margin:10px auto 20px auto;padding:0 0 0 380px;overflow:hidden">
-</div>
                                             </div>
                                 
                     </div>
               </div>
-              <div class="swiper-scrollbar4"></div>
+              <div class="swiper-scrollbar"></div>
      </div>
      </div>
    </div>
