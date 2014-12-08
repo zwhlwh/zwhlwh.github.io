@@ -137,7 +137,7 @@ html.swipebox {
   -webkit-border-radius: 50px;
   border-radius: 50px;
   background-position: left top;
-  background-color: white;
+  background-color: #666699;
   left: 40px;
 }
 
@@ -148,7 +148,7 @@ html.swipebox {
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50px;
-  background-color: white;
+  background-color: #666699;
   background-position: -32px 13px;
   
   right: 100px;
@@ -161,7 +161,7 @@ html.swipebox {
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50px;
-  background-color: white;
+  background-color: #666699;
   background-position: -78px 13px;
   right: 40px;
 }
