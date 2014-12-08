@@ -10,7 +10,7 @@
 <meta name="author" content="FamousThemes" />
 <meta name="description" content="GoMobile - A next generation web app theme" />
 <meta name="keywords" content="mobile web app, mobile template, mobile design, mobile app design, mobile app theme, mobile wordpress theme, my mobile app" />
-<title>Wedding</title>
+<title>朱文海&刘文慧婚礼</title>
 <link type="text/css" rel="stylesheet" href="css/style.css">
 <link type="text/css" rel="stylesheet" href="colors/wedding/wedding.css">
 <link type="text/css" rel="stylesheet" href="css/idangerous.swiper.css">
@@ -21,7 +21,7 @@
 <body onload="init()">
   <div id="header">
       <div class="gohome radius20"><a href="#"><img src="images/icons/home.png" alt="" title="" /></a></div>
-      <div class="gomenu radius20"><a href="mailto:wenhaizh@usc.edu" ><img src="images/icons/contact.png" alt="" title="" /></a></div>
+      <div class="gomenu radius20"><a href="mailto:408970730@qq.com" ><img src="images/icons/contact.png" alt="" title="" /></a></div>
   </div>
   <div class="swiper-container swiper-parent">
     <div class="swiper-wrapper">
@@ -38,10 +38,10 @@
                                         <li><a href="#" onclick="swiperParent.swipeTo(1);"><img src="images/icons/about.png" alt="" title="" /><span>婚礼信息</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(2);"><img src="images/icons/blog.png" alt="" title="" /><span>我们的故事</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(8);"><img src="images/icons/photos.png" alt="" title="" /><span>温馨相册</span></a></li>
-                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span></span></a></li>
+                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
                                         <li><a href="#" onclick="swiperParent.swipeTo(9);"><img src="images/icons/videos.png" alt="" title="" /><span>爱的视频</span></a></li>
                                         
-                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span></span></a></li>
+                                        <li><a href="#" onclick="swiperParent.swipeTo(10);"><img src="images/icons/twitter.png" alt="" title="" /><span>祝福我们</span></a></li>
                                         </ul>
                                         <div class="clearfix"></div>
                                         </div>
@@ -73,11 +73,18 @@
                                             <div class="trigger"><a href="#">地点</a></div>
                                 
                                             <div class="toggle_container">
-                                            <p>山东省泰安市东岳大街XX酒店<a>地图</a>
+                                            <p>山东省泰安市岱岳区长城路杨帆·美若山水酒店
                                             </p>
                                             </div>
                                         </div>
-                                        
+                                        <div class="toogle_wrap radius8">
+                                            <div class="trigger"><a href="#">祝福我们</a></div>
+                                
+                                            <div class="toggle_container">
+                                            <p>请点击右上角的邮件链接
+                                            </p>
+                                            </div>
+                                        </div>
                                         </div>
                                         <!--End of page container-->
                               </div>
@@ -244,7 +251,7 @@
                               <a class="backtoblog radius8" onclick="swiperParent.swipeTo(2);">时光倒流</a>
                               <h2 class="page_title">相爱</h2>
                             <div class="image_single radius4" align="center" ><img src="images/xiangai.jpg" alt="" title="" border="0" /></div>
-                            <h4>我们共同走过了春夏秋冬。</h4>
+                            <h4>我们从春天走过了冬天。</h4>
                             <h4>“我爱你！”</h4>
                           <h4>“我也爱你～”</h4>
                       
@@ -268,7 +275,7 @@
                               <a class="backtoblog radius8" onclick="swiperParent.swipeTo(2);">时光倒流</a>
                               <h2 class="page_title">相离</h2>
                             <div class="image_single radius4" align="center" ><img src="images/xiangli.jpg" alt="" title="" border="0" style="height:400px;width:300px"/></div>
-                            
+                            <h4>毕业后，相隔两地的恋爱。</h4>
                             <h4>“我在美国等着你！”</h4>
                           <h4>“我在中国等着你～”</h4>
                       
@@ -292,6 +299,7 @@
                               <a class="backtoblog radius8" onclick="swiperParent.swipeTo(2);">时光倒流</a>
                               <h2 class="page_title">相守</h2>
                             <div class="image_single radius4" align="center" ><img src="images/xiangshou.jpg" alt="" title="" border="0" style="height:400px;width:300px"/></div>
+                            <h4>在共同经历了1324天后...</h4>
                             <h3>“Will you marry me?”</h3>
                           <h3>"Yes!"</h3>
                       
