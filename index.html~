@@ -352,10 +352,8 @@
                                         <div class="pages_container">
                                         <h2 class="page_title">爱的视频</h2>
                                          
-                                            <div class="videocontainer radius6">
-                                               <div>
-                                              <embed src="http://player.youku.com/player.php/sid/XMjUyMDY4Mjgw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-  </div>
+                                            <div class="videocontainer radius6" >
+                                              <iframe style="align:center" height=300 width=310 src="http://player.youku.com/embed/XMjUyMDY4Mjgw" frameborder=0 allowfullscreen></iframe>
                                             </div>
                                 
                     </div>
